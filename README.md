@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**WilliamGRoy/WilliamGRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer based in Norfolk, UK. Working in the social housing sector, but with experience in the government, investment banking, telecoms and retail industries.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on:
+* 🔭 Currently working on private projects to put together an arts-based hub ton help people connect, support each other and fight social isolation.
+* 🌱 Currently learning: Neo4j/Cypher
+* ✍️ Regularly writing on: https://medium.com/@mabur2024
+* 💬 Ask me about: .Net, Neo4j/Cypher, React, Blazor, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+* **Frontend:** JavaScript, React, HTML5/CSS3, Tailwind CSS, Blazor/MudBlazor
+* **Backend:** Node.js, .Net
+* **Databases:** Azure SQL, SQL Server, Neo4j
+* **Tools:** Git, GitHub, 
+
+### 📫 Let's Connect:[
+* **LinkedIn:** ](https://www.linkedin.com/in/will-roy/)[Link to your LinkedIn]
+* **Medium:** [[Link to your Medium]](https://medium.com/@mabur2024)
+* **Email:** mabur2024@gmail.com
