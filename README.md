@@ -15,6 +15,6 @@ I'm a Software Engineer based in Norfolk, UK. Working in the social housing sect
 * **Tools:** Git, GitHub, 
 
 ### 📫 Let's Connect:[
-* **LinkedIn:** ](https://www.linkedin.com/in/will-roy/)[Link to your LinkedIn]
-* **Medium:** [[Link to your Medium]](https://medium.com/@mabur2024)
+* **LinkedIn:** https://www.linkedin.com/in/will-roy/
+* **Medium:** https://medium.com/@mabur2024
 * **Email:** mabur2024@gmail.com
