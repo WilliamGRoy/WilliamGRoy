@@ -6,13 +6,13 @@ I'm a Software Engineer based in Norfolk, UK. Working in the social housing sect
 * 🔭 Currently working on private projects to put together an arts-based hub ton help people connect, support each other and fight social isolation.
 * 🌱 Currently learning: Neo4j/Cypher
 * ✍️ Regularly writing on: https://medium.com/@mabur2024
-* 💬 Ask me about: .Net, Neo4j/Cypher, React, Blazor, Azure
+* 💬 Ask me about: .Net, C#, Typescript, Azure SQL, SQL Server, EF, Neo4j/Cypher, React, Blazor/MudBlazor, Azure, CI/CD - Yaml/Bicep pipelines
 
 ### 💻 Tech Stack:
-* **Frontend:** JavaScript, React, HTML5/CSS3, Tailwind CSS, Blazor/MudBlazor
-* **Backend:** Node.js, .Net
+* **Frontend:** JavaScript, Typescript, React, Tailwind CSS, Blazor/MudBlazor
+* **Backend:** .Net /Azure
 * **Databases:** Azure SQL, SQL Server, Neo4j
-* **Tools:** Git, GitHub, 
+* **Tools:** Git, GitHub, DecOps
 
 ### 📫 Let's Connect:[
 * **LinkedIn:** https://www.linkedin.com/in/will-roy/
